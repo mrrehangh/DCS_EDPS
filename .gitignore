@@ -1,0 +1,42 @@
+# Visual Studio files
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Database files
+*.mdf
+*.ldf
+*.ndf
+
+# Configuration files with sensitive data
+appsettings.Development.json
+database.config
+*.Development.json
+**/Properties/launchSettings.json
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+logs/
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
